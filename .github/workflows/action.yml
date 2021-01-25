@@ -1,7 +1,5 @@
 name: Publish Docker image
 
-description: Sample docker image
-
 on:
   push:
     branches: [master, main]
